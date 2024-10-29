@@ -1,0 +1,13 @@
+{
+  "name": "daily",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./main.ts",
+  "scripts": {
+    "test": "npx tsx ./main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
