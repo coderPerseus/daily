@@ -10,7 +10,9 @@
 
 视频教程：https://v.douyin.com/iSbpsppM/
 
-代码： /Singleton
+代码： [/Singleton](https://github.com/coderPerseus/daily/tree/main/Singleton)
+
+代码执行： `npx tsx ./Singleton/test.ts`
 
 知识点：
 
